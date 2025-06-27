@@ -17,7 +17,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 20px;
-    font-size: 30px;
+    font-size: 10px;
     overflow: auto;
 }
 .user-chat-box{
